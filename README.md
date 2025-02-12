@@ -57,12 +57,12 @@ The industry income scores histogram shows a concentration in the lower to middl
 International Outlook Scores:
 This histogram depicts a fairly balanced distribution of international outlook scores, with a slight right skew. Scores are primarily concentrated between 40 and 80, indicating that many institutions maintain a solid international presence. However, the skew suggests that achieving an exceptionally high level of internationalization is relatively rare.
 
-  ![ Alt Text](images/bar.png)
+  ![ Alt Text](images/.png)
 
 This bar chart displays the gender distribution across ten top-ranked universities. Each university's bar is divided into two segments, representing the percentage of male and female students. The data reveals varying gender balances across institutions, with some having a higher percentage of males and others with a more even distribution. For instance, California Institute of Technology shows a significantly higher male representation, while other universities like Harvard and Yale demonstrate closer to a 50/50 split. The chart allows for a quick visual comparison of gender diversity in higher education among these prominent universities.
 
 
-  ![ Alt Text](images/box_plot.png)
+  ![ Alt Text](images/image.png)
   This bar chart displays the gender distribution across ten top-ranked universities. Each university's bar is divided into two segments, representing the percentage of male and female students. The data reveals varying gender balances across institutions, with some having a higher percentage of males and others with a more even distribution. For instance, California Institute of Technology shows a significantly higher male representation, while other universities like Harvard and Yale demonstrate closer to a 50/50 split. The chart allows for a quick visual comparison of gender diversity in higher education among these prominent universities.
 
 ## How to Use  
