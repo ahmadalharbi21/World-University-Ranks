@@ -58,9 +58,18 @@ The industry income scores histogram shows a concentration in the lower to middl
 International Outlook Scores:
 This histogram depicts a fairly balanced distribution of international outlook scores, with a slight right skew. Scores are primarily concentrated between 40 and 80, indicating that many institutions maintain a solid international presence. However, the skew suggests that achieving an exceptionally high level of internationalization is relatively rare.
 
-  ![ Alt Text](images/.png)
+  ![ Alt Text](images/box_plot.png)
 
-This bar chart displays the gender distribution across ten top-ranked universities. Each university's bar is divided into two segments, representing the percentage of male and female students. The data reveals varying gender balances across institutions, with some having a higher percentage of males and others with a more even distribution. For instance, California Institute of Technology shows a significantly higher male representation, while other universities like Harvard and Yale demonstrate closer to a 50/50 split. The chart allows for a quick visual comparison of gender diversity in higher education among these prominent universities.
+This visualization presents box plots for six score categories, enabling distribution comparisons.
+Each box plot displays the median, quartiles, and outliers for a specific score category.
+Scores Overall has a narrow interquartile range (IQR), indicating low variability.
+Scores Teaching shows a wider IQR, reflecting diverse teaching scores among institutions.
+Scores Research has a lower median and compressed IQR, suggesting limited variation.
+Scores Citations exhibits high variability with a long tail of outliers, showing citation disparities.
+Scores Industry Income and Scores International Outlook have moderate variability with distinct medians.
+Outliers appear as points beyond the whiskers, representing extreme scores.
+The visualization highlights differences in central tendency and dispersion across categories.
+Overall, the box plots provide insight into score distributions and institutional performance.
 
 
   ![ Alt Text](images/image.png)
