@@ -32,6 +32,7 @@ This repository contains a Jupyter Notebook designed for Exploratory Data Analys
 - Identifying trends and dependencies between variables
 
 ## Insights
+
 ![ Alt Text](images/scatter_plot_1.png)
  This scatter plot demonstrates a strong positive correlation between Research Rank and World Rank. As Research Rank increases, World Rank rises accordingly, showing a clear direct relationship. The data points are closely grouped along a diagonal line, emphasizing the consistent connection between the two metrics. However, a few points show slight deviations, implying that other factors may affect World Rank in addition to Research Rank.
 
