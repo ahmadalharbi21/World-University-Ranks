@@ -63,6 +63,7 @@ This bar chart displays the gender distribution across ten top-ranked universiti
 
 
   ![ Alt Text](images/box_plot.png)
+  This bar chart displays the gender distribution across ten top-ranked universities. Each university's bar is divided into two segments, representing the percentage of male and female students. The data reveals varying gender balances across institutions, with some having a higher percentage of males and others with a more even distribution. For instance, California Institute of Technology shows a significantly higher male representation, while other universities like Harvard and Yale demonstrate closer to a 50/50 split. The chart allows for a quick visual comparison of gender diversity in higher education among these prominent universities.
 
 ## How to Use  
 1. Clone the repository or download the notebook.  
